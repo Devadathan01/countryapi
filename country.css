@@ -1,0 +1,27 @@
+.main{
+    width: 450px;
+    height: 500px;
+    border:  10px solid rgb(119, 115, 118);
+    padding-left: 20px;
+    padding: 4px;
+    text-transform: capitalize;
+    font-family:'Times New Roman', Times, serif,;
+    color: white;
+    
+    border-radius:10px;
+}
+
+body{
+margin-left: 30%;
+margin-top: 3%;
+background-size: cover;
+}
+
+    
+    img{
+        margin-top: 10px;
+        width: 200px;
+        height: 150px;
+        border: 1px solid black;
+    }
+    
